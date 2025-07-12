@@ -1,0 +1,5 @@
+[webcam mjpgstreamer]
+device: /dev/video0
+resolution: 640x480
+rotation: 0
+
