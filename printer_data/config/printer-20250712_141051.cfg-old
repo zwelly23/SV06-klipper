@@ -1,6 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
-[include mmu/addons/mmu_erec_cutter.cfg]
 # This file contains pin mappings for the stock Sovol SV06.
 # 
 # Find installation instructions at https://github.com/bassamanator/Sovol-SV06-firmware
